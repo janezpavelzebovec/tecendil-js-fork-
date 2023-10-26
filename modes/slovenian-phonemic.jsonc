@@ -197,7 +197,6 @@
 //Palatalization
   //Double-dot-below is adopted from u/Zellas06
     //NJ
-    "nj$": "ñ",
     "njt": "ñt",
     "njp": "ñp",
     "njč": "ñč",
@@ -224,7 +223,6 @@
     "njñ": "ññ",
     "njľ": "ñľ",
     //LJ
-    "lj$": "ľ",
     "ljt": "ľt",
     "ljp": "ľp",
     "ljč": "ľč",
@@ -338,7 +336,9 @@
     "dz": "{ando}[right-hook-below]",
 
     "ñ": "{nuumen}[double-dot-below]",
+        "nj$": "{nuumen}[double-dot-below]",
     "ľ": "{lambe}[double-dot-below]",
+        "lj$": "{lambe}[double-dot-below]",
 
 //Doubled consonants
     "tt": "{tinco}[bar-below]",
